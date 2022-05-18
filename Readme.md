@@ -6,6 +6,6 @@ Atualizando o repósitório do github.
 
 ## Estou dando meu primeiro commit
 como eu faço um commit:
-*git commit -m "seu comentário aqui"
-como envio para Readme no GitHub
-*git push origin main
+git commit -m "seu comentário aqui"
+como envio para Readme no GitHub:
+git push origin main
