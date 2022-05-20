@@ -24,3 +24,15 @@ header {
     font-size: 26px;
     text-transform: uppercase;
 }
+
+section {
+    color: #fff;
+}
+
+section h2 {
+    text-transform: uppercase;
+}
+
+section p {
+    text-align: justify;
+}
