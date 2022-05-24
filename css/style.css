@@ -36,3 +36,29 @@ section h2 {
 section p {
     text-align: justify;
 }
+
+.form-container {
+    max-width: 230px;
+    background-color: #ffffffbb;
+    padding: 20px;
+    float: right;
+    color: #000;
+}
+
+.mb {
+    margin-bottom: 15px;
+}
+
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    color: white;
+    background-color: #48c5ce;
+    font-weight: bold;
+}
